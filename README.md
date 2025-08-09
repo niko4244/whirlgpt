@@ -1,1 +1,1 @@
-# whirlgpt
+# whirl2
